@@ -20,3 +20,22 @@ a{
     text-decoration: none;
     font-size: 18px;
 }
+
+.el_sec {
+    font-size: 30px;
+    color: blue;
+}
+
+ol {
+    background-color: rgb(110, 110, 162);
+    color: yellowgreen;
+    margin: 0px 0px 0px 0px;
+    
+}
+
+.Sbox_1 {
+    background-color: rgb(196, 75, 75);
+    margin: 100px 30px 40px 80px;
+    border: 5px outset black;
+    padding: 0px 0px 0px 0px;
+} 
